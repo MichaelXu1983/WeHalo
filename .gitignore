@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+miniprogram/app.js
+miniprogram/components/authorCard/wh-authorCard.js
+miniprogram/components/authorCard/wh-authorCard.wxml
+project.config.json
