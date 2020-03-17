@@ -1,5 +1,6 @@
 node_modules/
 .DS_Store
+/cloudfunctions
 miniprogram/app.js
 miniprogram/components/authorCard/wh-authorCard.js
 miniprogram/components/authorCard/wh-authorCard.wxml
