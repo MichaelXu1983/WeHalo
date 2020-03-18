@@ -87,6 +87,12 @@ page {
 /**
  * Friends 样式
  **/
-.FriendsRound {
-	border-radius: 20rpx;
+.custom-bg-color {
+  background-color:#fff;
+  border:1px solid hsla(0,0%,82%,.3);
+  border-bottom:1px solid #6190e8;
+}
+
+.link-url {
+  line-height:40rpx;
 }
